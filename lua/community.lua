@@ -12,4 +12,5 @@ return {
   { import = "astrocommunity.scrolling.mini-animate" },
   { import = "astrocommunity.motion.hop-nvim" },
   { import = "astrocommunity.colorscheme.catppuccin" },
+  { import = "astrocommunity.editing-support.refactoring-nvim" },
 }

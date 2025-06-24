@@ -28,6 +28,8 @@ return {
         "csharp-language-server",
 
         "angular-language-server",
+
+        "java-language-server",
       },
     },
   },
