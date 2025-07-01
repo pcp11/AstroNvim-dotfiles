@@ -13,4 +13,5 @@ return {
   { import = "astrocommunity.motion.hop-nvim" },
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.editing-support.refactoring-nvim" },
+  { import = "astrocommunity.editing-support.auto-save-nvim" },
 }
