@@ -20,16 +20,6 @@ return {
 
         -- install any other package
         "tree-sitter-cli",
-
-        "typescript-language-server",
-
-        "vue-language-server",
-
-        "csharp-language-server",
-
-        "angular-language-server",
-
-        "java-language-server",
       },
     },
   },

@@ -84,6 +84,11 @@ return {
           desc = "Declaration of current symbol",
           cond = "textDocument/declaration",
         },
+        ["gi"] = {
+          function() vim.lsp.buf.implementation() end,
+          desc = "Go to Implementation",
+          cond = "textDocument/implementation", -- optional: only map if supported
+        },
         ["<Leader>uY"] = {
           function() require("astrolsp.toggles").buffer_semantic_tokens() end,
           desc = "Toggle LSP semantic highlight (buffer)",
