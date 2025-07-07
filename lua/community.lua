@@ -11,6 +11,7 @@ return {
   { import = "astrocommunity.utility.noice-nvim" },
   { import = "astrocommunity.scrolling.mini-animate" },
   { import = "astrocommunity.motion.hop-nvim" },
+  { import = "astrocommunity.motion.mini-surround" },
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.editing-support.refactoring-nvim" },
   { import = "astrocommunity.editing-support.auto-save-nvim" },
